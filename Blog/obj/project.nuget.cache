@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4828Z9e+iD6PNzvgHqYo5gROrkp5ZZRh6qzce32+mth6y6fddZUD9D3GP64tEExgnjyb/kqS3K1MDCM5Ipe6xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bayya\\source\\repos\\Blog\\Blog\\Blog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bayya\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

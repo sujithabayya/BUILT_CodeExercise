@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Title": "New Blog Post Title",
+    "Contents": null,
+    "TimeStamp": "2023-12-24T11:09:17.1554266-05:00",
+    "CategoryId": 1
+  },
+  {
+    "Id": 2,
+    "Title": "New Blog Post 2",
+    "Contents": null,
+    "TimeStamp": "2023-12-24T11:19:34.8568066-05:00",
+    "CategoryId": 3
+  },
+  {
+    "Id": 3,
+    "Title": "New Blog Post 3",
+    "Contents": null,
+    "TimeStamp": "2023-12-24T11:19:49.2312722-05:00",
+    "CategoryId": 1
+  },
+  {
+    "Id": 4,
+    "Title": "New Blog Post 4",
+    "Contents": null,
+    "TimeStamp": "2023-12-24T11:20:01.5203435-05:00",
+    "CategoryId": 2
+  },
+  {
+    "Id": 5,
+    "Title": "New Blog Post 6",
+    "Contents": "<p>This is a paragraph</p>",
+    "TimeStamp": "2023-12-24T11:23:45.1966453-05:00",
+    "CategoryId": 2
+  }
+]
